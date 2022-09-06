@@ -1,0 +1,20 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Contents}{3}{chapter*.1}%
+\contentsline {chapter}{List of Figures}{5}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}Abstract}{6}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Introduction}{7}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Basic Theories}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Design Using the Fourier Series}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Use of Window Functions}{9}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Kaiser Window}{9}{subsection.3.2.1}%
+\contentsline {section}{\numberline {3.3}Design of Prescribed Bandpass Filter}{10}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Determine the Impulse Response.}{10}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Choose the Delta}{10}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Chose the Alpha}{10}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Determine the parameter D}{11}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Apply the Kaiser Window}{11}{subsection.3.3.5}%
+\contentsline {chapter}{\numberline {4}Results}{12}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Conclusion}{14}{chapter.5}%
+\contentsline {chapter}{Bibliography}{15}{chapter*.3}%
+\contentsline {chapter}{\numberline {A}Appendix}{16}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Matlab Code}{16}{section.A.1}%
