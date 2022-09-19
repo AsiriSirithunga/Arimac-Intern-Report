@@ -60,45 +60,42 @@
 \pagecolor{lightpink}\afterpage{\nopagecolor}
 \center 
 
-\textbf{\Large University of Moratuwa}\\[2cm]
-\textbf{\large Faculty of Engineering}\\[2cm]
+\textbf{\Huge University of Moratuwa}\\[1cm]
+\textbf{\Large Faculty of Engineering}\\[1cm]
 
-\includegraphics[width=0.3\textwidth]{uomlogo}\\[5cm]
+\includegraphics[width=0.3\textwidth]{uomlogo}\\[2cm]
 
 	
-\textbf{\Huge {Registered Module No: EN3993 }  }\\[2cm]
-\textbf{\Huge{INDUSTRIAL TRAINING REPORT}}\\[2cm]
-\vspace{5cm}
-\textbf{\large Submitted by}\\[0.5cm]
-\begin{minipage}{0.32\textwidth}
+\textbf{\Large {Registered Module No: EN3993 }  }\\[1cm]
+\textbf{\Large {INDUSTRIAL TRAINING REPORT}}\\[1cm]
+\vspace{1cm}
+
+\begin{minipage}{1\textwidth}
 	\begin{flushleft}
-		{\large SIRITHUNGA M.R.A. }\\[4mm]
-		
+		\center 
+		\textbf{\Large {Arimac Lanka (Pvt) Ltd.}  }\\[1cm]
+		\textbf{\Large {From: 03/01/2022 To 03/07/2022.}  }\\[1cm]
+		\textbf{\large Submitted on}\\[0.1cm]
+		\textbf{\Large 30/09/2022}\\[0.5cm]
+		\textbf{\large Sirithunga M R A}\\[0.1cm]
+		\textbf{\large 180609B}\\[0.5cm]
+		\textbf{\large Department of: Electronic and Telecommunication Engineering}\\[0.5cm]
 	\end{flushleft}
 \end{minipage}
 \hspace{5mm}
-\begin{minipage}{0.32\textwidth}
-	\begin{flushright}
-		{\large 180609B }\\[4mm]
-		
-	\end{flushright}
-\end{minipage}\\[2cm]
 
 
-\textbf{\large Submitted on}\\[0.1cm]
-\textbf{\Large 05/03/2021} 
 
 \vfill
 \end{titlepage}
-\tableofcontents
-\listoffigures
-\chapter{Abstract}
-\hspace{4em}This project deals with the designing of the finite impulse response (FIR) bandpass filter. The FIR filter is designed using windowing method in conjunction with the kaiser window. The corresponding theories are going to be explaind according to the prescription that is provided. Matlab R2018a  is used for demonstrations and, the figures shown below  are the corresponding outputs given by the Matlab R2018a. The codes are included in the appendix.
+
+\chapter{Preface}
+\hspace{3em}This project deals with the designing of the finite impulse response (FIR) bandpass filter. The FIR filter is designed using windowing method in conjunction with the kaiser window. The corresponding theories are going to be explaind according to the prescription that is provided. Matlab R2018a  is used for demonstrations and, the figures shown below  are the corresponding outputs given by the Matlab R2018a. The codes are included in the appendix.
 %\makeatletter
 %\patchcmd{\chapter}{\if@openright\cleardoublepage\else\clearpage\fi}{}{}{}
 %\makeatother
 
-\chapter{Introduction}
+\chapter{Acknowledgement}
 \hspace{4em}A filter is a component wchich eliminates the undesired parts of the input signal with respect to the users requirements. The digital filters can be seperated by considering the impulse response as\cite{A.Antoniou},
 \begin{itemize}
   \item finite impulse response (FIR) filters and 
@@ -106,6 +103,11 @@
 \end{itemize}
 In this report it is going to deal with a FIR bandpass filter in conjunction with the kaiser window. Kiser window method is one of the most fascinating techniques.  
 \pagebreak
+
+\tableofcontents
+%\listofabbreviations
+\listoffigures
+\listoftables
 
 
 \chapter{Basic Theories}
@@ -329,6 +331,13 @@ The filter output in the frequency domain.
 \medskip
 
 
+
+
+\appendix
+\chapter{Annexes}
+\section{Matlab Code}
+%\lstinputlisting[language=Matlab]{Bandpass_Final.m}
+
 \begin{thebibliography}{9}
 %book
 \bibitem{A.Antoniou} 
@@ -347,11 +356,5 @@ UKEssays. (November 2018). Filter Design Using Rectangular Window And Kaiser Win
 \\\texttt{https://www.ukessays.com/essays/marketing/filter-design-using-rectangular
 -window-and-kaiser-window-marketing-essay.php?vref=1l}
 \end{thebibliography}
-
-
-\appendix
-\chapter{Appendix}
-\section{Matlab Code}
-%\lstinputlisting[language=Matlab]{Bandpass_Final.m}
 
 \end{document}
