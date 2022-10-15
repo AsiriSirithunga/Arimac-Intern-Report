@@ -2,14 +2,22 @@
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Bandpass filter parameters}}{10}{figure.3.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Impulse response.}}{12}{figure.4.1}%
-\contentsline {figure}{\numberline {4.2}{\ignorespaces Bandpass kaiser window.}}{12}{figure.4.2}%
-\contentsline {figure}{\numberline {4.3}{\ignorespaces Impulse response of the kaiser window}}{13}{figure.4.3}%
-\contentsline {figure}{\numberline {4.4}{\ignorespaces Passband, lower stopband and upper stopband}}{13}{figure.4.4}%
-\contentsline {figure}{\numberline {4.5}{\ignorespaces Ideal outputs}}{13}{figure.4.5}%
-\contentsline {figure}{\numberline {4.6}{\ignorespaces sample signal's filtered output.}}{13}{figure.4.6}%
-\contentsline {figure}{\numberline {4.7}{\ignorespaces Filter output in the frequency domain}}{13}{figure.4.7}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Company Logo}}{12}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces CEO Mr. Chamira Jayasinghe}}{13}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces CompanyTop Managementff}}{13}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces CompanyStaff}}{14}{figure.4.4}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Find object 2D}}{20}{figure.8.1}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces YOLO output}}{21}{figure.8.2}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Gray Image}}{22}{figure.8.3}%
+\contentsline {figure}{\numberline {8.4}{\ignorespaces Binary Image}}{23}{figure.8.4}%
+\contentsline {figure}{\numberline {8.5}{\ignorespaces Objects Detected}}{23}{figure.8.5}%
+\contentsline {figure}{\numberline {8.6}{\ignorespaces Not Detected}}{24}{figure.8.6}%
+\contentsline {figure}{\numberline {8.7}{\ignorespaces Distance Display}}{25}{figure.8.7}%
+\addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }
