@@ -22,6 +22,7 @@
 \usepackage{pdfpages}
 \usepackage[english]{babel}
 \usepackage{longtable}
+\usepackage{wrapfig}
 \setlength{\parskip}{1em}
 \renewcommand{\baselinestretch}{1.5}
 \usepackage{titlesec}
@@ -199,7 +200,23 @@ With more than 200 employees company is rapidly growing even during the Covid pa
 %  \item The filter is noncausal because the impulse response is nonzero for negative time.
 %\end{itemize}
 
+As a company of Sri Lanka, the significant achievements can be identified. Some of them are as follows,
 
+1. First ever 3D game in Sri Lanka.
+\begin{figure}[H]
+  \centering
+   \includegraphics[width=12cm]{game}
+  \caption{Kanchayudha}
+\end{figure}
+
+2. First ever Humanoid  in Sri Lanka.
+\begin{figure}[H]
+  \centering
+   \includegraphics[width=12cm]{robot}
+  \caption{Diyazen}
+\end{figure}
+
+As of now, the gaming and robotics industry is lead by the Arimac Lanka. The journey will continue. 
 
 \chapter{Familiarization work}
 
@@ -213,9 +230,17 @@ After an insightful week I was in a position where I could involve with the team
 
 
 \chapter{Exposure to system}
-\hspace{3em} After went through a series of interviews, I got an offer letter. First time I engaged with the company system was the on-boarding process. Basically, I had to deal with the HR team. All the required details and the documents were provided. The training contract was signed accordingly. Soon after, It was the time to set up my company profile. In this phase an IT support person from the company provided me all the guidance to set up my profile including the E-mail, MS teams, Jira, Gitlab and the Trello environments. Since that time I could meet the top-management people time to time in the progress reporting meetings. 
 
-After receiving the second monthly allowance, I realized that there was an unexpected pay cut. So, first I contacted the HR team and got to know about the procedure that I needed to follow. Then I wrote an E-mail to the accountant and opened a request. Within a few working days the issue was solved. It was a quiet an experience for me as an intern. Anyways I could overcome that struggle smoothly. 
+
+\hspace{3em} After went through a series of interviews, I got an offer letter. First time I engaged with the company system was the on-boarding process. Basically, I had to deal with the HR team. All the required details and the documents were provided. The training contract was signed accordingly.
+
+\begin{wrapfigure}{r}{0.48\textwidth}
+    \centering
+    \includegraphics[width=0.28\textwidth]{intern}
+    \caption{Internship Process}
+\end{wrapfigure}
+
+ Soon after, It was the time to set up my company profile. In this phase an IT support person from the company provided me all the guidance to set up my profile including the E-mail, MS teams, Jira, Gitlab and the Trello environments. Since that time I could meet the top-management people time to time in the progress reporting meetings. After receiving the second monthly allowance, I realized that there was an unexpected pay cut. So, first I contacted the HR team and got to know about the procedure that I needed to follow. Then I wrote an E-mail to the accountant and opened a request. Within a few working days the issue was solved. It was a quiet an experience for me as an intern. Anyways I could overcome that struggle smoothly. 
 
 Finally, the off-boarding peocess was started. Again I went through the given procedure. I had to contact the all the people I dealt with before. Basically, got the approvals from respected departments and requested a service letter. 
 
@@ -356,6 +381,13 @@ message should publish to the ROS needed to be done.
 \subsection{Git}
 To start with the development task, I went through the Git tutorials that I could learn about the versioning system.The SSH communication was done using private and public key pair.  From the "git initiate to merging" was studied and use with the project. 
 
+\begin{figure}[H]
+  \centering
+   \includegraphics[width=15cm]{git}
+  \caption{Git Explain}
+\end{figure}
+
+
 \subsection{Gitlab}
 All the work were managed on Gitlab private workspace. Basically, the Gitlab private workspace consists of well documented robot simulation up until the Autonomous navigation. The repository was forked into our development projects and testings were done in there. Eventually, I our well organized and documented branches were merged and requested to merge accordingly. This is the most common and appropriate approach in software development. 
 
@@ -364,6 +396,13 @@ Apart from that, we use Microsoft visual studio code as our editor. Having a lot
 \section{ Jira and Project Management}
 
 The project management helps the organization to make the best from their talents and time. The team was following an agile methodology. The outcome based system directly monitor the progress using tools such as Jira. The daily updates to the Jira board should be completed after the daily scrum. It enabled me to stick with the development team and compare my work with others. 
+
+\begin{figure}[H]
+  \centering
+   \includegraphics[width=15cm]{jira}
+  \caption{Jira agile board}
+\end{figure}
+
 
 \chapter{Soft skills development}
 
@@ -392,10 +431,28 @@ Throughout the internship period of Arimac, I could enhance my communication ski
 \hspace{3em}SWOT analysis is an analytical method/tool which is used to identify and categories significant internal (Strengths and Weaknesses) and external (Opportunities and Threats) factors faced either in a particular arena, such as an organization, or a territory, such as a region, nation, or city.
 It provides information that is helpful in matching the firms’ resources and capabilities to the competitive environment in which it operates and is therefore an important contribution to the strategic planning process. It should not be viewed as a static method with emphasis solely on its output, but should be used as a dynamic part of the management and business development process. Sri Lankan IT industry is the most significant and dynamic contributor to Sri Lanka’s economy. It has the potential of becoming one of the leading service providers in the world. 
 
+
 \begin{table}[!h]
 \centering
 
 
+ \begin{tabular}{||p{0.4\textwidth}|p{0.5\textwidth}||}
+ \hline
+ Opportunities & Threats\\ [0.5ex] 
+ \hline\hline
+ Have wide range of product and services, can share service of each sector & Have to compete with many other IT companies. \\ 
+ \hline
+Internationally recognized company, Have larger potential market for the products& Government policies may some time effect in drawn back of the IT services industry and product manufacturing.  \\
+ \hline
+Easy to introduce new products to the market  &   \\ [1ex]
+\hline
+ \end{tabular}
+\caption{External Opportunities and Threats.}
+\label{tab:table1}
+\end{table}
+
+\begin{table}[!h]
+\centering
  \begin{tabular}{||p{0.4\textwidth}|p{0.5\textwidth}||}
  \hline
  Strenghts &  Weaknesses \\ [0.5ex] 
@@ -406,7 +463,11 @@ It provides information that is helpful in matching the firms’ resources and c
  \hline
 Management of production capacity  & Lack of available equipments and maintanance.  \\  
  \hline
-Ability to handle high volume orders & Increasing taxes and import restrictions.  \\ [1ex]
+Partnered with best international Players & Increasing taxes and import restrictions.\\
+ \hline
+Well established sales and distribution system &   \\
+ \hline
+Ability to handle high volume orders &   \\ [1ex]
 \hline
  \end{tabular}
 \caption{Internal Strengths and Weaknesses.}
@@ -414,32 +475,12 @@ Ability to handle high volume orders & Increasing taxes and import restrictions.
 \end{table}
 
 
-\begin{table}[!h]
-\centering
-
-
- \begin{tabular}{||p{0.4\textwidth}|p{0.5\textwidth}||}
- \hline
- Strenghts &  Weaknesses \\ [0.5ex] 
- \hline\hline
- Availability of skilled labor & Increasing cost of labor and availability of employment in other industries and foreign employment opportunities. \\ 
- \hline
- Educated and trainable work force & Constant power interruptions reduce productivity.  \\
- \hline
-Management of production capacity  & Lack of available equipments and maintanance.  \\  
- \hline
-Ability to handle high volume orders & Increasing taxes and import restrictions.  \\ [1ex]
-\hline
- \end{tabular}
-\caption{External Opportunities and Threats.}
-\label{tab:table1}
-\end{table}
-
-
-
-
 \chapter{Conclusion}
-\hspace{4em}Kaiser Window technique is an effective method of planning a FIR filter under the closed form direct methodology, because of its adaptability, the design can oblige many plan prerequisites that are determined on the filter. It  is additionally seen that the computational exertion of designing a filter in this strategy is little. Anyway the major downside of this filter configuration is the high order of filter required. There can be ideal filters of lower request that can accomplish similar determinations. At the point when actualized in equipment higher request filters can be wasteful because of the use of more unit delay adders and multipliers. In the product usage, higher order filters require more calculations per test. Further developed plan procedures must be utilized all together to get optimality.
+\hspace{3em} The Industrial Training I completed with the Arimac Lanka Robotics team is one of the most valueble opportunities in my carieer. As an Electronic and Telecommunication Engineering undergraduate in University of Moratuwa, I could enhance almost every technical and personal skills with the immense support of so many people. In my opinion the internship could have been more exciting without the prevaling situation of the country. I recommend Arimac Lanka as a great place to complete your internship. They provide you the most valueble skills and experience. The work environment, ethics and rules they follow are best suits for a student growth as a youngster to the Industry. 
+\\\\\\\\\\\\\\\\\\\\\\\\
+
+\centering
+Thank You!
 
 
 
@@ -488,6 +529,19 @@ ROS Documentation
 Company, S.N. (n.d.). Sudo Null - Latest IT News. [online] SudoNull. 
 \textit{Detection and recognition of objects from the camera in ROS.}
 Available: https://sudonull.com/post/14732-Detection-and-recognition-of-objects-fromthe-camera-in-ROS-using-the-package-find-objehttps://sudonull.com/post/
+
+\bibitem{Ieee Paper 2} 
+S. Gatesichapakorn, J. Takamatsu and M. Ruchanurucks
+\textit{"ROS based Autonomous Mobile Robot Navigation using 2D LiDAR and RGB-D Camera," 2019 First International Symposium on Instrumentation, Control, Artificial Intelligence, and Robotics (ICA-SYMP), 2019, pp. 151-154, doi: 10.1109/ICA-SYMP.2019.8645984.Abstract: This paper presents an implementation of autonomous mobile robot with the robot operating system (ROS). The system utilizes 2D LiDAR and RGB-D camera with ROS 2D navigation stack, with low power consumption and inexpensive onboard computer. Safe to property and human is of priority. Regarding software, we use official ROS packages with minimal default parameter changes. For hardware, the limitation of equipment and system setting are among challenges. Our proposed systems can perform navigation with dynamic obstacle avoidance capability. The Contribution of this paper is two system setups of ROS navigation stack are proposed. The first system is implemented on Raspberry Pi 3 using 2D LiDAR only. The second system is implemented on Intel NUC using 2D LiDAR and RGB-D camera. To evaluate the performance, usability testing was performed in multiple experiments. Our experiment results show that the robot can avoid objects in their path, or stop in case of unavoidable. Discussion of problems and solutions are presented after the experiment results. }
+Available: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=8645984\&isnumber=8645979
+
+
+\bibitem{Ieee Paper 3} 
+D. Maier, A. Hornung and M. Bennewitz
+\textit{"Real-time navigation in 3D environments based on depth camera data," 2012 12th IEEE-RAS International Conference on Humanoid Robots (Humanoids 2012), 2012, pp. 692-697, doi: 10.1109/HUMANOIDS.2012.6651595.Abstract: In this paper, we present an integrated approach for robot localization, obstacle mapping, and path planning in 3D environments based on data of an onboard consumer-level depth camera. We rely on state-of-the-art techniques for environment modeling and localization, which we extend for depth camera data. We thoroughly evaluated our system with a Nao humanoid equipped with an Asus Xtion Pro Live depth camera on top of the humanoid's head and present navigation experiments in a multi-level environment containing static and non-static obstacles. Our approach performs in real-time, maintains a 3D environment representation, and estimates the robot's pose in 6D. As our results demonstrate, the depth camera is well-suited for robust localization and reliable obstacle avoidance in complex indoor environments.
+}
+Available: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=6651595\&isnumber=6651490
+
 
 \end{thebibliography}
 

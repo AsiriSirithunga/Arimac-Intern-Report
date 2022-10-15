@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  15 OCT 2022 16:20
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.6)  15 OCT 2022 18:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -450,19 +450,27 @@ Package: longtable 2021-09-01 v4.17 Multi-page Table package (DPC)
 \c@LT@chunks=\count304
 \LT@p@ftn=\toks26
 )
+(C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen167
+\WF@size=\dimen168
+\c@WF@wrappedlines=\count305
+\WF@box=\box65
+\WF@everypar=\toks27
+Package: wrapfig 2003/01/31  v 3.6
+)
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
-\ttl@box=\box65
+\ttl@box=\box66
 \beforetitleunit=\skip59
 \aftertitleunit=\skip60
-\ttl@plus=\dimen167
-\ttl@minus=\dimen168
-\ttl@toksa=\toks27
-\titlewidth=\dimen169
-\titlewidthlast=\dimen170
-\titlewidthfirst=\dimen171
+\ttl@plus=\dimen169
+\ttl@minus=\dimen170
+\ttl@toksa=\toks28
+\titlewidth=\dimen171
+\titlewidthlast=\dimen172
+\titlewidthfirst=\dimen173
 )
-LaTeX Font Info:    Trying to load font information for T1+ptm on input line 59
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 60
 .
 
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
@@ -479,24 +487,24 @@ LaTeX Warning: Label `tab:table1' multiply defined.
 )
 \openout1 = `Final_Report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 59.
-LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -536,17 +544,17 @@ LaTeX Font Info:    ... okay on input line 59.
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count305
-\scratchdimen=\dimen172
-\scratchbox=\box66
-\nofMPsegments=\count306
-\nofMParguments=\count307
-\everyMPshowfont=\toks28
-\MPscratchCnt=\count308
-\MPscratchDim=\dimen173
-\MPnumerator=\count309
-\makeMPintoPDFobject=\count310
-\everyMPtoPDFconversion=\toks29
+\scratchcounter=\count306
+\scratchdimen=\dimen174
+\scratchbox=\box67
+\nofMPsegments=\count307
+\nofMParguments=\count308
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count309
+\MPscratchDim=\dimen175
+\MPnumerator=\count310
+\makeMPintoPDFobject=\count311
+\everyMPtoPDFconversion=\toks30
 )
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
 ase.sty
@@ -558,13 +566,13 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 fg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-\big@size=\dimen174
-Package hyperref Info: Link coloring OFF on input line 59.
+\big@size=\dimen176
+Package hyperref Info: Link coloring OFF on input line 60.
  (Final_Report.out) (Final_Report.out)
 \@outlinefile=\write3
 \openout3 = `Final_Report.out'.
 
-\c@lstlisting=\count311
+\c@lstlisting=\count312
 
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/pdflscape\pdflscape.sty
 Package: pdflscape 2019/12/05 v0.12 Display of landscape pages in PDF (HO)
@@ -576,66 +584,66 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 <uomlogo.png, id=135, 200.75pt x 212.795pt>
 File: uomlogo.png Graphic file (type png)
 <use uomlogo.png>
-Package pdftex.def Info: uomlogo.png  used on input line 68.
+Package pdftex.def Info: uomlogo.png  used on input line 69.
 (pdftex.def)             Requested size: 135.89174pt x 144.05577pt.
 LaTeX Font Info:    Trying to load font information for OT1+ztmcm on input line
- 86.
+ 87.
 
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd
 File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OML+ztmcm on input line
- 86.
+ 87.
 
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd
 File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+ztmcm on input line
- 86.
+ 87.
 
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd
 File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+ztmcm on input line
- 86.
+ 87.
 
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd
 File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
 )
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 8
-6.
+7.
 
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 86.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 87.
 
 [1
 
 {C:/Users/ravin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./uomlogo.pn
 g>]
 Chapter 1.
-LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 9
-9.
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 1
+00.
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 105--112
+Underfull \hbox (badness 10000) in paragraph at lines 106--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--112
+Underfull \hbox (badness 10000) in paragraph at lines 106--113
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--112
+Underfull \hbox (badness 10000) in paragraph at lines 106--113
 
  []
 
@@ -663,224 +671,359 @@ Chapter 3.
 \tf@lof=\write5
 \openout5 = `Final_Report.lof'.
 
+
+Underfull \vbox (badness 2970) has occurred while \output is active []
+
  [10
 
-] (Final_Report.lot)
+]
+[11] (Final_Report.lot)
 \tf@lot=\write6
 \openout6 = `Final_Report.lot'.
 
- [11
+ [12
 
 ]
 Chapter 4.
-<logo.jpg, id=246, 1505.625pt x 1505.625pt>
+<logo.jpg, id=260, 1505.625pt x 1505.625pt>
 File: logo.jpg Graphic file (type jpg)
 <use logo.jpg>
-Package pdftex.def Info: logo.jpg  used on input line 171.
+Package pdftex.def Info: logo.jpg  used on input line 172.
 (pdftex.def)             Requested size: 227.62204pt x 227.603pt.
-[12
+[13
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.176 
+l.177 
        <./logo.jpg>]
-<ceo.jpg, id=251, 1445.4pt x 1445.4pt>
+<ceo.jpg, id=266, 1445.4pt x 1445.4pt>
 File: ceo.jpg Graphic file (type jpg)
 <use ceo.jpg>
-Package pdftex.def Info: ceo.jpg  used on input line 179.
+Package pdftex.def Info: ceo.jpg  used on input line 180.
 (pdftex.def)             Requested size: 284.52756pt x 284.53156pt.
-<staff.jpg, id=252, 2055.68pt x 1301.86375pt>
+<staff.jpg, id=267, 2055.68pt x 1301.86375pt>
 File: staff.jpg Graphic file (type jpg)
 <use staff.jpg>
-Package pdftex.def Info: staff.jpg  used on input line 185.
+Package pdftex.def Info: staff.jpg  used on input line 186.
 (pdftex.def)             Requested size: 341.43306pt x 216.22852pt.
- [13
+ [14
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.190 
+l.191 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.190 
+l.191 
        <./ceo.jpg> <./staff.jpg>]
-<staff2.jpg, id=258, 803.0pt x 413.545pt>
+<staff2.jpg, id=272, 803.0pt x 413.545pt>
 File: staff2.jpg Graphic file (type jpg)
 <use staff2.jpg>
-Package pdftex.def Info: staff2.jpg  used on input line 193.
+Package pdftex.def Info: staff2.jpg  used on input line 194.
 (pdftex.def)             Requested size: 341.43306pt x 175.83948pt.
- [14
+<game.jpeg, id=273, 1204.5pt x 677.53125pt>
+File: game.jpeg Graphic file (type jpg)
+<use game.jpeg>
+Package pdftex.def Info: game.jpeg  used on input line 208.
+(pdftex.def)             Requested size: 341.43306pt x 192.05424pt.
+<robot.jpg, id=274, 564.60938pt x 317.68687pt>
+File: robot.jpg Graphic file (type jpg)
+<use robot.jpg>
+Package pdftex.def Info: robot.jpg  used on input line 215.
+(pdftex.def)             Requested size: 341.43306pt x 192.1163pt.
+ [15
 pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.204 \chapter
-              {Familiarization work} <./staff2.jpg>]
+l.218 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.218 
+       <./staff2.jpg> <./game.jpeg>] [16
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.221 \chapter
+              {Familiarization work} <./robot.jpg>]
 Chapter 5.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [15
+ [17
 
 ]
-[16]
+[18]
 Chapter 6.
-[17
+<intern.png, id=291, 806.01125pt x 1897.0875pt>
+File: intern.png Graphic file (type png)
+<use intern.png>
+Package pdftex.def Info: intern.png  used on input line 239.
+(pdftex.def)             Requested size: 126.83044pt x 298.50339pt.
 
-]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.246 
+       <./intern.png>] [20]
 Chapter 7.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [18
+ [21
 
 ]
-[19]
+[22]
 Chapter 8.
-<object_detection-fo2d.png, id=284, 660.21657pt x 499.8675pt>
+<object_detection-fo2d.png, id=310, 660.21657pt x 499.8675pt>
 File: object_detection-fo2d.png Graphic file (type png)
 <use object_detection-fo2d.png>
-Package pdftex.def Info: object_detection-fo2d.png  used on input line 269.
+Package pdftex.def Info: object_detection-fo2d.png  used on input line 294.
 (pdftex.def)             Requested size: 341.43306pt x 258.5139pt.
 
 Underfull \vbox (badness 3250) has occurred while \output is active []
 
- [20
+ [23
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.275 
+l.300 
        <./object_detection-fo2d.png>]
-<yolo.png, id=289, 539.01375pt x 379.4175pt>
+<yolo.png, id=315, 539.01375pt x 379.4175pt>
 File: yolo.png Graphic file (type png)
 <use yolo.png>
-Package pdftex.def Info: yolo.png  used on input line 294.
+Package pdftex.def Info: yolo.png  used on input line 319.
 (pdftex.def)             Requested size: 341.43306pt x 240.3427pt.
 
 Underfull \vbox (badness 1852) has occurred while \output is active []
 
- [21
+ [24
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.311 
+l.336 
        <./yolo.png>]
-<gray.png, id=295, 368.87813pt x 213.79875pt>
+<gray.png, id=321, 368.87813pt x 213.79875pt>
 File: gray.png Graphic file (type png)
 <use gray.png>
-Package pdftex.def Info: gray.png  used on input line 314.
+Package pdftex.def Info: gray.png  used on input line 339.
 (pdftex.def)             Requested size: 426.79134pt x 247.36403pt.
-<binary.png, id=296, 371.13657pt x 216.81pt>
+<binary.png, id=322, 371.13657pt x 216.81pt>
 File: binary.png Graphic file (type png)
 <use binary.png>
-Package pdftex.def Info: binary.png  used on input line 320.
+Package pdftex.def Info: binary.png  used on input line 345.
 (pdftex.def)             Requested size: 426.79134pt x 249.32625pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [22
+ [25
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8.3}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.323 
+l.348 
        <./gray.png>]
-<detected.png, id=302, 366.61969pt x 210.7875pt>
+<detected.png, id=329, 366.61969pt x 210.7875pt>
 File: detected.png Graphic file (type png)
 <use detected.png>
-Package pdftex.def Info: detected.png  used on input line 326.
+Package pdftex.def Info: detected.png  used on input line 351.
 (pdftex.def)             Requested size: 426.79134pt x 245.39816pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23
+ [26
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8.4}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.338 
+l.363 
       
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8.5}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.338 
+l.363 
        <./binary.png> <./detected.png>]
-<depth_output.png, id=309, 490.08093pt x 325.215pt>
+<depth_output.png, id=336, 490.08093pt x 325.215pt>
 File: depth_output.png Graphic file (type png)
 <use depth_output.png>
-Package pdftex.def Info: depth_output.png  used on input line 341.
+Package pdftex.def Info: depth_output.png  used on input line 366.
 (pdftex.def)             Requested size: 426.79134pt x 283.22258pt.
-<depth-out-dist.png, id=310, 492.33937pt x 322.20375pt>
+<depth-out-dist.png, id=337, 492.33937pt x 322.20375pt>
 File: depth-out-dist.png Graphic file (type png)
 <use depth-out-dist.png>
-Package pdftex.def Info: depth-out-dist.png  used on input line 347.
+Package pdftex.def Info: depth-out-dist.png  used on input line 372.
 (pdftex.def)             Requested size: 426.79134pt x 279.31696pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24
+ [27
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8.6}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.350 
+l.375 
        <./depth_output.png>]
-Overfull \hbox (3.56772pt too wide) in paragraph at lines 360--361
-\T1/ptm/m/n/12 All the work were man-aged on Git-lab pri-vate workspace. Ba-si-
-cally, the Git-lab pri-vate workspace
- []
+<git.png, id=342, 1164.35pt x 984.67876pt>
+File: git.png Graphic file (type png)
+<use git.png>
+Package pdftex.def Info: git.png  used on input line 386.
+(pdftex.def)             Requested size: 426.79134pt x 360.9298pt.
 
-[25
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28
 pdfTeX warning (ext4): destination with the same identifier (name{figure.8.7}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.361 
-       <./depth-out-dist.png>] [26]
-Chapter 9.
-[27
+l.389 
+       <./depth-out-dist.png>]
+Overfull \hbox (3.56772pt too wide) in paragraph at lines 392--393
+\T1/ptm/m/n/12 All the work were man-aged on Git-lab pri-vate workspace. Ba-si-
+cally, the Git-lab pri-vate workspace
+ []
 
-] [28] [29]
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [29
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8.8}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.399 
+       <./git.png>]
+<jira.png, id=352, 3537.215pt x 2020.54875pt>
+File: jira.png Graphic file (type png)
+<use jira.png>
+Package pdftex.def Info: jira.png  used on input line 402.
+(pdftex.def)             Requested size: 426.79134pt x 243.78113pt.
+ [30
+pdfTeX warning (ext4): destination with the same identifier (name{figure.8.9}) 
+has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.407 \chapter
+              {Soft skills development} <./jira.png>]
+Chapter 9.
+[31
+
+] [32] [33]
 Chapter 10.
+
+Underfull \hbox (badness 10000) in paragraph at lines 466--466
+[]\T1/ptm/m/n/12 Partnered with best in-ter-na-tional
+ []
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[30
+[34
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{table.10.1}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.441 \chapter
-              {Conclusion}] [31
+l.478 \chapter
+              {Conclusion}] [35
 pdfTeX warning (ext4): destination with the same identifier (name{table.10.2}) 
 has been already used, duplicate ignored
 <argument> ...shipout:D \box_use:N \l_shipout_box 
                                                   \__shipout_drop_firstpage_...
-l.441 \chapter
+l.478 \chapter
               {Conclusion}]
 Chapter 11.
 
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--481
+
+ []
+
+
 
 pdfTeX warning: pdflatex.exe (file ./Offer letter -Asiri Sirithunga.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Offer letter -Asiri Sirithunga.pdf, id=345, 614.295pt x 794.97pt>
+<Offer letter -Asiri Sirithunga.pdf, id=379, 614.295pt x 794.97pt>
 File: Offer letter -Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Offer letter -Asiri Sirithunga.pdf>
 Package pdftex.def Info: Offer letter -Asiri Sirithunga.pdf  used on input line
- 450.
+ 491.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -889,7 +1032,7 @@ nclusion: found PDF version <1.6>, but at most version <1.5> allowed
 File: Offer letter -Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Offer letter -Asiri Sirithunga.pdf>
 Package pdftex.def Info: Offer letter -Asiri Sirithunga.pdf  used on input line
- 450.
+ 491.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
 
@@ -899,44 +1042,44 @@ nclusion: found PDF version <1.6>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./Offer letter -Asiri Sirithunga.pdf): PDF i
 nclusion: found PDF version <1.6>, but at most version <1.5> allowed
-<Offer letter -Asiri Sirithunga.pdf, id=348, page=1, 614.295pt x 794.97pt>
+<Offer letter -Asiri Sirithunga.pdf, id=382, page=1, 614.295pt x 794.97pt>
 File: Offer letter -Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Offer letter -Asiri Sirithunga.pdf, page 1>
 Package pdftex.def Info: Offer letter -Asiri Sirithunga.pdf , page1 used on inp
-ut line 450.
+ut line 491.
 (pdftex.def)             Requested size: 452.9679pt x 586.19432pt.
 File: Offer letter -Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Offer letter -Asiri Sirithunga.pdf, page 1>
 Package pdftex.def Info: Offer letter -Asiri Sirithunga.pdf , page1 used on inp
-ut line 450.
+ut line 491.
 (pdftex.def)             Requested size: 812.04356pt x 1050.87994pt.
-[32
+[36
 
 ]
 File: Offer letter -Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Offer letter -Asiri Sirithunga.pdf, page 1>
 Package pdftex.def Info: Offer letter -Asiri Sirithunga.pdf , page1 used on inp
-ut line 450.
+ut line 491.
 (pdftex.def)             Requested size: 812.04356pt x 1050.87994pt.
 File: Offer letter -Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Offer letter -Asiri Sirithunga.pdf, page 1>
 Package pdftex.def Info: Offer letter -Asiri Sirithunga.pdf , page1 used on inp
-ut line 450.
+ut line 491.
 (pdftex.def)             Requested size: 812.04356pt x 1050.87994pt.
 File: Offer letter -Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Offer letter -Asiri Sirithunga.pdf, page 1>
 Package pdftex.def Info: Offer letter -Asiri Sirithunga.pdf , page1 used on inp
-ut line 450.
+ut line 491.
 (pdftex.def)             Requested size: 812.04356pt x 1050.87994pt.
- [33 <./Offer letter -Asiri Sirithunga.pdf>]
+ [37 <./Offer letter -Asiri Sirithunga.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./Service Letter - Asiri Sirithunga.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Service Letter - Asiri Sirithunga.pdf, id=400, 597.55246pt x 845.07718pt>
+<Service Letter - Asiri Sirithunga.pdf, id=435, 597.55246pt x 845.07718pt>
 File: Service Letter - Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Service Letter - Asiri Sirithunga.pdf>
 Package pdftex.def Info: Service Letter - Asiri Sirithunga.pdf  used on input l
-ine 451.
+ine 492.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
@@ -945,7 +1088,7 @@ F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 File: Service Letter - Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Service Letter - Asiri Sirithunga.pdf>
 Package pdftex.def Info: Service Letter - Asiri Sirithunga.pdf  used on input l
-ine 451.
+ine 492.
 (pdftex.def)             Requested size: 597.551pt x 845.07512pt.
 
 
@@ -955,89 +1098,106 @@ F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
 
 pdfTeX warning: pdflatex.exe (file ./Service Letter - Asiri Sirithunga.pdf): PD
 F inclusion: found PDF version <1.7>, but at most version <1.5> allowed
-<Service Letter - Asiri Sirithunga.pdf, id=403, page=1, 597.55246pt x 845.07718
+<Service Letter - Asiri Sirithunga.pdf, id=438, page=1, 597.55246pt x 845.07718
 pt>
 File: Service Letter - Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Service Letter - Asiri Sirithunga.pdf, page 1>
 Package pdftex.def Info: Service Letter - Asiri Sirithunga.pdf , page1 used on 
-input line 451.
+input line 492.
 (pdftex.def)             Requested size: 452.9679pt x 640.61479pt.
 File: Service Letter - Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Service Letter - Asiri Sirithunga.pdf, page 1>
 Package pdftex.def Info: Service Letter - Asiri Sirithunga.pdf , page1 used on 
-input line 451.
+input line 492.
 (pdftex.def)             Requested size: 788.99051pt x 1115.81482pt.
 File: Service Letter - Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Service Letter - Asiri Sirithunga.pdf, page 1>
 Package pdftex.def Info: Service Letter - Asiri Sirithunga.pdf , page1 used on 
-input line 451.
+input line 492.
 (pdftex.def)             Requested size: 788.99051pt x 1115.81482pt.
 File: Service Letter - Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Service Letter - Asiri Sirithunga.pdf, page 1>
 Package pdftex.def Info: Service Letter - Asiri Sirithunga.pdf , page1 used on 
-input line 451.
+input line 492.
 (pdftex.def)             Requested size: 788.99051pt x 1115.81482pt.
 File: Service Letter - Asiri Sirithunga.pdf Graphic file (type pdf)
 <use Service Letter - Asiri Sirithunga.pdf, page 1>
 Package pdftex.def Info: Service Letter - Asiri Sirithunga.pdf , page1 used on 
-input line 451.
+input line 492.
 (pdftex.def)             Requested size: 788.99051pt x 1115.81482pt.
-[34 <./Service Letter - Asiri Sirithunga.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 456--462
+[38 <./Service Letter - Asiri Sirithunga.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 494--494
+|\T1/ptm/b/n/24.88 Bibliography|
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 497--503
 \T1/ptm/m/n/12 able: https://www.worldcat.org/title/mastering-ros-for-robotics-
 programming-second-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 456--462
+Underfull \hbox (badness 10000) in paragraph at lines 497--503
 \T1/ptm/m/n/12 edition-design-build-and-simulate-complex-robots-using-the-robot
 -operating-system-2nd-
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 471--474
+Underfull \hbox (badness 3884) in paragraph at lines 512--515
 []\T1/ptm/m/n/12 S. Zhao and S. -H. Hwang \T1/ptm/m/it/12 "Path plan-ning of RO
 S au-tonomous robot based
  []
 
 
-Underfull \hbox (badness 4291) in paragraph at lines 471--474
+Underfull \hbox (badness 4291) in paragraph at lines 512--515
 \T1/ptm/m/it/12 on 2D lidar-based SLAM," 2021 In-ter-na-tional Con-fer-ence on 
 In-for-ma-tion and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 471--474
+Underfull \hbox (badness 10000) in paragraph at lines 512--515
 \T1/ptm/m/it/12 Com-mu-ni-ca-tion Tech-nol-ogy Con-ver-gence (ICTC), 2021, pp. 
 1870-1872, doi:
  []
 
 
-Underfull \hbox (badness 6658) in paragraph at lines 471--474
+Underfull \hbox (badness 6658) in paragraph at lines 512--515
 \T1/ptm/m/it/12 10.1109/ICTC52510.2021.9620783.Abstract: In-door robots are mor
 e and more
  []
 
 
-Underfull \hbox (badness 1043) in paragraph at lines 471--474
+Underfull \hbox (badness 1043) in paragraph at lines 512--515
 \T1/ptm/m/it/12 widely used, and their path plan-ning di-rectly af-fects tra-ve
 rse ef-fi-ciency and qual-
  []
 
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 4
-81.
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 5
+22.
 (C:\Users\ravin\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-[35
+[39
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 488--491
+Underfull \hbox (badness 10000) in paragraph at lines 529--532
 \T1/ptm/m/n/12 Detection-and-recognition-of-objects-fromthe-camera-in-ROS-using
 -the-package-find-
  []
 
-[36] (Final_Report.aux)
+
+Underfull \hbox (badness 1917) in paragraph at lines 540--544
+[]\T1/ptm/m/n/12 D. Maier, A. Hor-nung and M. Ben-newitz \T1/ptm/m/it/12 "Real-
+time nav-i-ga-tion in 3D en-vi-ron-
+ []
+
+
+Underfull \hbox (badness 1831) in paragraph at lines 540--544
+\T1/ptm/m/it/12 on Hu-manoid Robots (Hu-manoids 2012), 2012, pp. 692-697, doi: 
+10.1109/HU-
+ []
+
+[40] [41] (Final_Report.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1045,22 +1205,22 @@ Package rerunfilecheck Info: File `Final_Report.out' has not changed.
 (rerunfilecheck)             Checksum: 375B3827B89708A664407D5F8908A1BC;4058.
  ) 
 Here is how much of TeX's memory you used:
- 14674 strings out of 477843
- 239130 string characters out of 2823600
- 650627 words of memory out of 3000000
- 33255 multiletter control sequences out of 15000+600000
+ 14826 strings out of 477843
+ 241419 string characters out of 2823600
+ 652000 words of memory out of 3000000
+ 33389 multiletter control sequences out of 15000+600000
  499148 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,17n,77p,1068b,608s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,17n,77p,1365b,610s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\ravin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ectt
 1200.pk>{C:/Users/ravin/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.e
 nc}<C:/Users/ravin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.p
 fb><C:/Users/ravin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.p
 fb><C:/Users/ravin/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.
 pfb>
-Output written on Final_Report.pdf (36 pages, 2406554 bytes).
+Output written on Final_Report.pdf (41 pages, 5060731 bytes).
 PDF statistics:
- 533 PDF objects out of 1000 (max. 8388607)
- 90 named destinations out of 1000 (max. 500000)
- 365 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 578 PDF objects out of 1000 (max. 8388607)
+ 102 named destinations out of 1000 (max. 500000)
+ 390 words of extra memory for PDF output out of 10000 (max. 10000000)
 
