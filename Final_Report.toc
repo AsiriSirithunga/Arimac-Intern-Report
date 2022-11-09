@@ -1,33 +1,33 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{\numberline {1}Acknowledgement}{4}{chapter.1}%
 \contentsline {chapter}{Contents}{6}{chapter*.2}%
-\contentsline {chapter}{\numberline {2}Acronyms and Abbreviations}{8}{chapter.2}%
-\contentsline {chapter}{List of Figures}{10}{chapter*.3}%
-\contentsline {chapter}{List of Tables}{12}{chapter*.4}%
-\contentsline {chapter}{\numberline {3}Training establishment}{13}{chapter.3}%
-\contentsline {chapter}{\numberline {4}Familiarization work}{17}{chapter.4}%
-\contentsline {chapter}{\numberline {5}Exposure to system}{19}{chapter.5}%
-\contentsline {chapter}{\numberline {6}Project Work}{21}{chapter.6}%
-\contentsline {section}{\numberline {6.1}Background}{21}{section.6.1}%
-\contentsline {section}{\numberline {6.2}Objective}{21}{section.6.2}%
-\contentsline {section}{\numberline {6.3}Approach}{22}{section.6.3}%
-\contentsline {chapter}{\numberline {7}Hands-on Experiences}{23}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Find Object 2D}{23}{section.7.1}%
-\contentsline {section}{\numberline {7.2}YOLO}{24}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Object Recognition Custom Package}{25}{section.7.3}%
-\contentsline {subsection}{\numberline {7.3.1}RGB}{25}{subsection.7.3.1}%
-\contentsline {subsection}{\numberline {7.3.2}Depth}{27}{subsection.7.3.2}%
-\contentsline {section}{\numberline {7.4} Git and Gitlab}{28}{section.7.4}%
-\contentsline {subsection}{\numberline {7.4.1}Git}{28}{subsection.7.4.1}%
-\contentsline {subsection}{\numberline {7.4.2}Gitlab}{29}{subsection.7.4.2}%
-\contentsline {section}{\numberline {7.5} Jira and Project Management}{30}{section.7.5}%
-\contentsline {chapter}{\numberline {8}Soft skills development}{31}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Work Ethic}{31}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Time management}{31}{section.8.2}%
-\contentsline {section}{\numberline {8.3}Networking}{32}{section.8.3}%
-\contentsline {section}{\numberline {8.4}Creative Thinking}{32}{section.8.4}%
-\contentsline {section}{\numberline {8.5}Team work}{32}{section.8.5}%
-\contentsline {section}{\numberline {8.6}Communication Skills}{32}{section.8.6}%
-\contentsline {chapter}{\numberline {9} SWOT Analysis }{34}{chapter.9}%
-\contentsline {chapter}{\numberline {10}Conclusion}{36}{chapter.10}%
-\contentsline {chapter}{Bibliography}{40}{appendix*.5}%
+\contentsline {chapter}{\numberline {2}Acronyms and Abbreviations}{10}{chapter.2}%
+\contentsline {chapter}{List of Figures}{12}{chapter*.3}%
+\contentsline {chapter}{List of Tables}{14}{chapter*.4}%
+\contentsline {chapter}{\numberline {3}Training establishment}{15}{chapter.3}%
+\contentsline {chapter}{\numberline {4}Familiarization work}{19}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Exposure to system}{21}{chapter.5}%
+\contentsline {chapter}{\numberline {6}Project Work}{23}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Background}{23}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Objective}{23}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Approach}{24}{section.6.3}%
+\contentsline {chapter}{\numberline {7}Hands-on Experiences}{25}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Find Object 2D}{25}{section.7.1}%
+\contentsline {section}{\numberline {7.2}YOLO}{26}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Object Recognition Custom Package}{26}{section.7.3}%
+\contentsline {subsection}{\numberline {7.3.1}RGB}{26}{subsection.7.3.1}%
+\contentsline {subsection}{\numberline {7.3.2}Depth}{29}{subsection.7.3.2}%
+\contentsline {section}{\numberline {7.4} Git and Gitlab}{30}{section.7.4}%
+\contentsline {subsection}{\numberline {7.4.1}Git}{30}{subsection.7.4.1}%
+\contentsline {subsection}{\numberline {7.4.2}Gitlab}{31}{subsection.7.4.2}%
+\contentsline {section}{\numberline {7.5} Jira and Project Management}{32}{section.7.5}%
+\contentsline {chapter}{\numberline {8}Soft skills development}{33}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Work Ethic}{33}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Time management}{34}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Networking}{34}{section.8.3}%
+\contentsline {section}{\numberline {8.4}Creative Thinking}{34}{section.8.4}%
+\contentsline {section}{\numberline {8.5}Team work}{35}{section.8.5}%
+\contentsline {section}{\numberline {8.6}Communication Skills}{35}{section.8.6}%
+\contentsline {chapter}{\numberline {9} SWOT Analysis }{36}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Conclusion}{38}{chapter.10}%
+\contentsline {chapter}{Bibliography}{42}{appendix*.5}%

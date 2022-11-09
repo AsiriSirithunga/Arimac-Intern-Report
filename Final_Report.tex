@@ -23,7 +23,7 @@
 \usepackage[english]{babel}
 \usepackage{longtable}
 \usepackage{wrapfig}
-\setlength{\parskip}{1em}
+\setlength{\parskip}{3em}
 \renewcommand{\baselinestretch}{1.5}
 \usepackage{titlesec}
 \titleformat{\chapter}[display]
@@ -236,31 +236,28 @@ After an insightful week I was in a position where I could involve with the team
 
 \hspace{3em} After went through a series of interviews, I got an offer letter. First time I engaged with the company system was the on-boarding process. Basically, I had to deal with the HR team. All the required details and the documents were provided. The training contract was signed accordingly.
 
-\begin{wrapfigure}{r}{0.48\textwidth}
+\begin{wrapfigure}{r}{0.45\textwidth}
     \centering
-    \includegraphics[width=0.28\textwidth]{intern}
+    \includegraphics[width=0.2\textwidth]{intern}
     \caption{Internship Process}
 \end{wrapfigure}
 
- Soon after, It was the time to set up my company profile. In this phase an IT support person from the company provided me all the guidance to set up my profile including the E-mail, MS teams, Jira, Gitlab and the Trello environments. Since that time I could meet the top-management people time to time in the progress reporting meetings. After receiving the second monthly allowance, I realized that there was an unexpected pay cut. So, first I contacted the HR team and got to know about the procedure that I needed to follow. Then I wrote an E-mail to the accountant and opened a request. Within a few working days the issue was solved. It was a quiet an experience for me as an intern. Anyways I could overcome that struggle smoothly. 
+ Soon after, It was the time to set up my company profile. In this phase an IT support person from the company provided me all the guidance to set up my profile including the E-mail, MS teams, Jira, Gitlab and the Trello environments. Since that time I could meet the top-management people time to time in the progress reporting meetings. After receiving the second monthly allowance, I realized that there was an unexpected pay cut. So, first I contacted the HR team and got to know about the procedure that I needed to follow. Then I wrote an E-mail to the accountant and opened a request. 
 
-Finally, the off-boarding peocess was started. Again I went through the given procedure. I had to contact the all the people I dealt with before. Basically, got the approvals from respected departments and requested a service letter. 
+
+
+Within a few working days the issue was solved. It was a quiet an experience for me as an intern. Anyways I could overcome that struggle smoothly. Finally, the off-boarding peocess was started. Again I went through the given procedure. I had to contact the all the people I dealt with before. Basically, got the approvals from respected departments and requested a service letter. 
 
 
 \chapter{Project Work}
 
 \section{Background}
 
-\hspace{3em}The field of Robotics is a multidisciplinary and open-ended area that most of the research is going around the world. The introducing of both the computer vision and the AI into robotics has been making a huge impact in the field of Robotics for a few decades. Computer vision libraries like OpenCV and deep learning algorithms like YOLO are at the top of the list. Navigate in an unstructured environment has been challenging for robot developers, because of that vision-based obstacle avoiding and environment mapping approaches are emerging. One of the major concerns among the researchers is the computational cost in image processing. To overcome this, the work that has to be done is huge.
+The field of Robotics is a multidisciplinary and open-ended area that most of the research is going around the world. The introducing of both the computer vision and the AI into robotics has been making a huge impact in the field of Robotics for a few decades. Computer vision libraries like OpenCV and deep learning algorithms like YOLO are at the top of the list. Navigate in an unstructured environment has been challenging for robot developers, because of that vision-based obstacle avoiding and environment mapping approaches are emerging. 
 
 \section{Objective}
 
-In our case, the small obstacles on the floor have been a great challenge for 
-us to smoothly navigate in an indoor environment. Most of the time, robots get 
-blocked after collied with the small coke cans, toys and clothes on the floor. 
-The solution for this has to be solved with the 3D depth camera sensor. Basically, 
-the perception of the robot should be accurate with the least blind spots in order to 
-achieve the desired outcome. 
+One of the major concerns among the researchers is the computational cost in image processing. To overcome this, the work that has to be done is huge. In our case, the small obstacles on the floor have been a great challenge for us to smoothly navigate in an indoor environment. Most of the time, robots get blocked after collied with the small coke cans, toys and clothes on the floor. The solution for this has to be solved with the 3D depth camera sensor. Basically, the perception of the robot should be accurate with the least blind spots in order to achieve the desired outcome. 
 
 \section{Approach}
 
@@ -278,9 +275,9 @@ subscriber and custom laser data publisher. The outcome was robust and scalable.
 
 This package is open to use by anyone. The OpenCV based SURF/SIFT algorithms are used in the package. The RGB image will be the input to the package and it will be detected and published on a ROS topic with ID and position (by image pixel coordinates). First, we need to create a sample set of images to detect the features we need to identify. The implementation was successfully detected humans on the image as shown below.
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
-   \includegraphics[width=12cm]{object_detection-fo2d}
+   \includegraphics[width=8cm]{object_detection-fo2d}
   \caption{Find object 2D}
 \end{figure}
 
@@ -303,7 +300,7 @@ could have been identified with a new model which can be trained using the CUDA.
 low frame rate and the significantly lower frame rate caused regret this solution for further 
 development. 
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
    \includegraphics[width=12cm]{yolo}
   \caption{YOLO output}
@@ -323,19 +320,19 @@ converted into grayscale format. From that, a proper threshold can be identified
 create a binary image. The objects are identified and bounding objects can be drawn 
 around them.
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
    \includegraphics[width=15cm]{gray}
   \caption{Gray Image}
 \end{figure}
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
    \includegraphics[width=15cm]{binary}
   \caption{Binary Image}
 \end{figure}
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
    \includegraphics[width=15cm]{detected}
   \caption{Objects Detected}
@@ -350,13 +347,13 @@ distance to an object using the custom package. If an object is detected, the
 distance for the object from the camera frame will be displayed in meters. It was 
 successful and the results are as follows.
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
    \includegraphics[width=15cm]{depth_output}
   \caption{Not Detected}
 \end{figure}
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
    \includegraphics[width=15cm]{depth-out-dist}
   \caption{Distance Display}
